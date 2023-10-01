@@ -1,0 +1,3 @@
+C:/studenti/2023_2024/IT2/PRP/P2/parkoviste/cmake-build-debug/CMakeFiles/parkoviste.dir
+C:/studenti/2023_2024/IT2/PRP/P2/parkoviste/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/studenti/2023_2024/IT2/PRP/P2/parkoviste/cmake-build-debug/CMakeFiles/rebuild_cache.dir
